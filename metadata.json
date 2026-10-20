@@ -1,0 +1,8 @@
+{
+  "name": "OmniESG Global Enterprise OS",
+  "description": "Global multi-tenant enterprise ESG sustainability operating system with multi-company isolation, cryptographic audit logging, RBAC governance, and universal compliance reporting.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
